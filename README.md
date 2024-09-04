@@ -19,7 +19,7 @@ The customer base is spread across 6 countries: Australia, Canada, France, Germa
 
 This project involved the following tasks:
 
-- Connecting and transforming the raw data 
+- Connecting and transforming data 
 - Building a relational data model
 - Creating calculated columns and measures using **DAX**
 - Created a rolling calendar using **PowerQuery M code**
