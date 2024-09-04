@@ -4,7 +4,7 @@ A Microsoft Power BI business intelligence dashboard for AdventureWorks, a ficti
 
 The dataset was supplied with the [Maven Analytics Power BI Desktop course](https://mavenanalytics.io/course/microsoft-power-bi-desktop). This data was derived from the [AdventureWorks sample databases](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure) available from Microsoft.
 
-The customer base is spread across 6 countries on 3 continents: Australia, Canada, France, Germany, United Kingdom and United States. Sales and return data is available for the period between 01/01/2020 and 30/06/2022. Customer profiles include date of birth, annual income, education level, number of children, occupation and homeowner status. 
+The customer base is spread across 6 countries: Australia, Canada, France, Germany, United Kingdom and United States. Sales and return data is available for the period between 01/01/2020 and 30/06/2022. Customer profiles include date of birth, annual income, education level, number of children, occupation and homeowner status. 
 
 <img alt="AdventureWorks Executive Dashboard" src="screenshots/exec_dashboard.gif">
 
@@ -19,37 +19,37 @@ The customer base is spread across 6 countries on 3 continents: Australia, Canad
 
 This project involved the following tasks:
 
-- connecting and transforming the raw data 
-- building a relational data model
-- creating calculated columns and measures using **DAX**
+- Connecting and transforming the raw data 
+- Building a relational data model
+- Creating calculated columns and measures using **DAX**
 - Created a rolling calendar using **PowerQuery M code**
-- building an interactive dashboard
+- Building an interactive dashboard
 
 ## Dashboard Elements
 
 #### Executive Summary View
 
-- high-level KPIs for revenue, profit, orders and return rates
-- page-level filtering by product and product category
-- drill-through per product to product detail view
+- High-level KPIs for revenue, profit, orders and return rates
+- Page-level filtering by product and product category
+- Drill-through per product to product detail view
 
 #### Map View
 
-- total orders per country
+- Total orders per country
 
 #### Product Detail View
 
-- per-product performance against order, revenue and profit targets
-- "what if" analysis via price adjustment shows adjusted profit
+- Per-product performance against order, revenue and profit targets
+- "What if" analysis via price adjustment shows adjusted profit
 
 #### Customer Detail View
 
-- total customer and per-customer revenue analysis
+- Total customer and per-customer revenue analysis
 
 #### Custom UI Elements
 
-- filter pane for filtering by year and geography
-- custom tooltip for product category order metrics
+- Filter pane for filtering by year and geography
+- Custom tooltip for product category order metrics
 
 ### Insights
 
