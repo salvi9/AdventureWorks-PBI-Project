@@ -6,7 +6,7 @@ The dataset was supplied with the [Maven Analytics Power BI Desktop course](http
 
 The customer base is spread across 6 countries on 3 continents: Australia, Canada, France, Germany, United Kingdom and United States. Sales and return data is available for the period between 01/01/2020 and 30/06/2022. Customer profiles include date of birth, annual income, education level, number of children, occupation and homeowner status. 
 
-<img alt="AdventureWorks Executive Dashboard" src="images/screenshots/exec_dashboard.gif">
+<img alt="AdventureWorks Executive Dashboard" src="screenshots/exec_dashboard.gif">
 
 ## Features
 
@@ -57,16 +57,16 @@ This project involved the following tasks:
 
 - Understandably, tires and tubes are the most ordered product type, while cycling shorts are the most returned product type. After mountain bike fenders, sports helmets top the list of revenue-generating products, despite having relatively high return rates:
 
-<img src="./images/screenshots/top_revenue_products.png">
+<img src="./screenshots/top_revenue_products.png">
 
 - The most profitable product categories are clothing and accessories.
 
 - There is a step change (on the order of 200 customers per week) in total weekly customers beginning 02/08/2021.
 
-<img src="./images/screenshots/total_weekly_customers.png">
+<img src="./screenshots/total_weekly_customers.png">
 
 - However, revenue per customer has been declining year-on-year:
 
-<img src="./images/screenshots/revenue_per_customer.png">
+<img src="./screenshots/revenue_per_customer.png">
 
 - While the United States is the largest market with 8,700 orders and $7.94 million in total revenue, The Australian market has the largest revenue per customer at $2,131.
